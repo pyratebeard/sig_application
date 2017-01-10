@@ -1,0 +1,2 @@
+*/15 * * * 1-5 /usr/bin/job_scheduling.sh
+0 12 * * 6 /usr/bin/job_scheduling.sh
