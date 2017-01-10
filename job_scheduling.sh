@@ -8,7 +8,7 @@
 #
 # author: dudley burrows
 #
-
+source $HOME/.bash_profile
 date=$(date +%Y%m%d)
 time=$(date +%H%M%S)
 log_file="/var/log/do_something_"$date"_"$time".log"
