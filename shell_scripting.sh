@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# shell script to
+# shell script to extract information from csv file
 #
 # requires 'Sample csv.csv'
 #
